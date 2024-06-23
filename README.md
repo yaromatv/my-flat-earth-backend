@@ -1,6 +1,5 @@
 # My Flat Earth Backend
 
-<img src="https://res.cloudinary.com/" alt="Logo">
 This repository contains the backend code for the [My Flat Earth](https://github.com/yaromatv/my-flat-earth) project.
 
 ## Technologies Used
@@ -24,7 +23,7 @@ This repository contains the backend code for the [My Flat Earth](https://github
 -   npm start: Start the server in production mode.
 -   npm run dev: Start the server in development mode using nodemon.
 
-##API Endpoints
+## API Endpoints
 
 -   GET /api/maps: Get all maps.
 -   POST /api/maps: Add a new map.
