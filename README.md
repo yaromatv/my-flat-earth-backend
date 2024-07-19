@@ -1,6 +1,6 @@
 # My Flat Earth Backend
 
-This repository contains the backend code for the [My Flat Earth](https://github.com/yaromatv/my-flat-earth) project.
+This repository contains the backend code for the [My Flat Earth](https://github.com/yaromatv/my-flat-earth-frontend) project.
 
 ## Technologies Used
 
